@@ -1,7 +1,7 @@
 # Max-min Grouped Bandit Code Implementation
 
-> [Full paper name & Author]
-> [Preprint link]
+> Max-min Grouped Bandits. *Zhenlin Wang, Jonathan Scarlett*. Preprint, 2022.
+> https://arxiv.org/abs/2111.08862
 
 ```
 [Citation/bibtex of our work]
